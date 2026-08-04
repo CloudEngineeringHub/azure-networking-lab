@@ -1,0 +1,9 @@
+variable "rgs" {}
+variable "vnets" {}
+variable "subnets" {}
+variable "public_ips" {}
+variable "bastion" {}
+variable "nsg" {}
+variable "secrets" {}
+variable "keyvaults" {}
+variable "vms" {}
